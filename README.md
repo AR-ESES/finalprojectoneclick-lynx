@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ipevJCXR)
 #  **LYNX**
-## Trabalho feito em Âmbito da Disciplina de Design Multimédia
+## Trabalho feito em Âmbito da Disciplina de Design Multimédia por Pedro Santos, Nº220000819 do 2º Ano PME
 ### **Descrição**
 
 Durante a segunda metade do século XXI, a Terra viveu um período de rápido crescimento populacional, que colocou pressão sobre o abastecimento global de alimentos e energia. Este fenómeno causou com os governos nacionais ficassem sobrecarregados com a necessidades das suas populações e acelerassem a extração de recursos naturais e fontes de energia extremamente poluentes de forma a não causar um colapso das suas sociedades. No entanto, estas ações apenas causaram mais conflitos e esgotar a maioria dos recursos naturais disponíveis no planeta, o que por si causou um dominó de eventos que levaram ao colapso da vida na terra como a conhecemos.
