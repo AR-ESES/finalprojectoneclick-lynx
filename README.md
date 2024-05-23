@@ -31,10 +31,10 @@ O objetivo do jogo é atravessar estes ambientes com a unidade “LYNX” sem co
 ![desenho de obstáculo](Pico-2.png)
 
 ### Situações de Jogo
-![desenho de jogo](Grid-4.png)
-![desenho de jogo](Grid-4.png)
-![desenho de jogo](Grid-4.png)
-![desenho de jogo](Grid-4.png)
+![desenho de jogo](Protótipo-Grid-013.png)
+![desenho de jogo](Protótipo-Oceano.png)
+![desenho de jogo](Protótipo-Selva.png)
+![desenho de jogo](Protótipo-Vulcão.png)
 
 
 ### Link do Jogo 	
