@@ -15,7 +15,7 @@ O objetivo do jogo é atravessar estes ambientes com a unidade “LYNX” sem co
 ![desenho de Marca](LYNX-Pod.png)
 
 ### Perfil do Jogador/Personagem Principal
-![desenho de perfil](LYNX-Logo.png)
+![desenho de perfil](LYNX-Logo.jpg)
 ![desenho de perfil](Data-Recohlida-Logo.jpg)
 ![desenho de perfil](Barra-de-Progresso.png)
 
