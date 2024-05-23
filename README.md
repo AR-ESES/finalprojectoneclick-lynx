@@ -17,15 +17,15 @@ O objetivo do jogo é atravessar estes ambientes com a unidade “LYNX” sem co
 ![desenho de perfil](LYNX-Pod.png)
 
 ### Obstáculos	
-![desenho de obstáculo](Grid-1.png)
-![desenho de perfil](Grid-2.png)
-![desenho de perfil](Grid-3.png)
-![desenho de perfil](Grid-4.png)
+![desenho de obstáculo](Grid_1.png)
+![desenho de perfil](Grid_2.png)
+![desenho de perfil](Grid_3.png)
+![desenho de perfil](Grid_4.png)
 ![desenho de obstáculo](Gaivota.png)
 ![desenho de obstáculo](Sunken-Boat.png)
 ![desenho de obstáculo](Palmeira.png)
-![desenho de obstáculo](Pico-1.png)
-![desenho de obstáculo](Pico-2.png)
+![desenho de obstáculo](Pico_1.png)
+![desenho de obstáculo](Pico_2.png)
 - First item
 - Second item
 - Third item
