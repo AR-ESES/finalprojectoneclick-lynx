@@ -37,7 +37,7 @@ O objetivo do jogo é atravessar estes ambientes com a unidade “LYNX” sem co
 ![desenho de jogo](Protótipo-Vulcão.jpg)
 
 ### *Moodboard*
-![desenho de moodboard](Moodboard.jpg)
+![desenho de moodboard](Moodboard.png)
 
 ### Link do Jogo 	
 [LYNX](https://www.example.com) (Soon + 2 Weeks)
