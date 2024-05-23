@@ -11,10 +11,10 @@ Numa tentativa desesperada para preservar o planeta Terra da sua extinção, Jar
 
 O objetivo do jogo é atravessar estes ambientes com a unidade “LYNX” sem com que ela bata em nenhum obstáculo, de forma a recolher data nos vários ambientes até preencher uma barra de “Coleção de Data”. Caso contrário, perderá toda a data recolhida e a nave “LYNX” ficará inoperacional e será também perdida pela equipa do Professor Jarnefeldt.
 
-### Imagem de Marca
+### Perfil do Jogador/Personagem Principal
 ![desenho de Marca](LYNX-Pod.png)
 
-### Perfil do Jogador/Personagem Principal
+### Imagem de Marca
 ![desenho de perfil](LYNX-Logo.jpg)
 ![desenho de perfil](Data-Recohlida-Logo.jpg)
 ![desenho de perfil](Barra-de-Progresso.png)
