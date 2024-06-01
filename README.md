@@ -7,9 +7,9 @@ Durante a segunda metade do século XXI, a Terra viveu um período de rápido cr
 
 Uma dos únicos refúgios que conseguiram sobrevier a este colaspo foi uma colónia de na penísula de Anatólia, onde o Professor Jarnefeldt, um cientísta de renome que fugiu da Alemanha antes deste se dissolver e quebrar-se em estados de senhores de guerra, bem como vários dos seus colegas, tornaram Fethyie (localidade costeira na antiga Turquia) num dos únicos lugares de relativa segurança e normalidade na Terra.
 
-Numa tentativa desesperada para preservar o planeta Terra da sua extinção, Jarnefeldt e a sua equipa de engenheiros construiu uma pequena nave “LYNX” controlada por I.A., para explorar a Terra inóspita à procura de ambientes terrestres que sobreviveram à enorme poluição espalhada pelo planeta, bem como artefactos históricos que ainda estejam intactos para preservar a história da humanidade. 
+Numa tentativa desesperada para preservar o planeta Terra da sua extinção, Jarnefeldt e a sua equipa de engenheiros construiram várias naves pequenas “LYNX” controladas por I.A., e enviaram-nas um pouco por toda a Terra para irem à procura de ambientes terrestres que sobreviveram à enorme poluição espalhada pelo planeta, bem como artefactos históricos que ainda estejam intactos para preservar a história da humanidade. 
 
-O objetivo do jogo é atravessar estes ambientes com a unidade “LYNX” sem com que ela bata em nenhum obstáculo, de forma a recolher data nos vários ambientes até preencher uma barra de “Coleção de Data”. Caso contrário, perderá toda a data recolhida e a nave “LYNX” ficará inoperacional e será também perdida pela equipa do Professor Jarnefeldt.
+O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX” sem com que ela bata em nenhum obstáculo, de forma a recolher data nos vários ambientes até preencher uma barra de “Coleção de Data”. Caso contrário, perderá toda a data recolhida e a nave “LYNX” ficará inoperacional e será também perdida pela equipa do Professor Jarnefeldt. No entanto, eles irão construír outra nave e enviarão outra "LYNX" suplente quando recomeçares o jogo.
 
 ### Perfil do Jogador/Personagem Principal
 ![desenho de Marca](LYNX-Pod.png)
