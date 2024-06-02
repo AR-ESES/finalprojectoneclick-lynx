@@ -1,4 +1,4 @@
-![t-shirt-verde-LYNX](https://github.com/AR-ESES/finalprojectoneclick-lynx/assets/160870005/ec2a964f-4773-4591-b856-24074bd57c4e)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ipevJCXR)
+(https://github.com/AR-ESES/finalprojectoneclick-lynx/assets/160870005/ec2a964f-4773-4591-b856-24074bd57c4e)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ipevJCXR)
 #  **LYNX**
 ## Trabalho feito em Âmbito da Disciplina de Design Multimédia por Pedro Santos, Nº220000819 do 2º Ano PME
 ### **Descrição**
@@ -42,7 +42,7 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ### *Merchandise*
 ![roupa](t-shirt-verde-LYNX.png)
 ![roupa](bone-vermelho-LYNX.png)
-![roupa](Chapéu-amarelho-LYNX.png)
+![roupa](Chapeu-amarelho-LYNX.png)
 ![roupa](estojo-escolar-LYNX.png)
 ![roupa](mochila-azul-LYNX.png)
 
