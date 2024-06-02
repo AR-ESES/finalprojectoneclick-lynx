@@ -50,5 +50,5 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 [LYNX](https://www.example.com) (Soon + 2 Weeks)
 
 ### Trailer
-Soon + 2 weeks
+![roupa](mochila-azul-LYNX.png)
 
