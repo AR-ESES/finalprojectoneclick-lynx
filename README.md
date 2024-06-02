@@ -48,7 +48,7 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ![roupa](mochila-azul-LYNX.png)
 
 ### Link do Jogo 	
-[LYNX](https://www.example.com) (*Missing*, não consegui meter aqui o link do cõdigo, e mesmo que conseguisse, não consegui meter o jogo a funcionar)
+[LYNX](https://www.example.com) (*Missing*, não consegui meter aqui o link do código, e mesmo que conseguisse, não consegui meter o jogo a funcionar)
 
 ### Trailer
 ![LYNX-Trailer](LYNX-Trailer.mp4)
