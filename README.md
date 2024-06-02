@@ -51,5 +51,5 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 [LYNX](https://www.example.com) (*Missing*, não consegui meter aqui o link do cõdigo, e mesmo que conseguisse, não consegui meter o jogo a funcionar)
 
 ### Trailer
-![roupa](LYNX-Trailer.mp4)
+![LYNX-Trailer](LYNX-Trailer.mp4)
 
