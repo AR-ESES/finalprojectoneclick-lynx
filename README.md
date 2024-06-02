@@ -27,8 +27,8 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ![desenho de obstáculo](Gaivota.png)
 ![desenho de obstáculo](Sunken-Boat.png)
 ![desenho de obstáculo](Palmeira.png)
-![desenho de obstáculo](Pico-1.png)
-![desenho de obstáculo](Pico-2.png)
+![desenho de obstáculo](Pico-1-Revisto.png)
+![desenho de obstáculo](Pico-2-Revisto.png)
 
 ### Situações de Jogo
 ![desenho de jogo](Protótipo-Grid-013.jpg)
