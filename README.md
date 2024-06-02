@@ -17,6 +17,7 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ### Imagem de Marca
 ![desenho de perfil](LYNX-Logo.jpg)
 ![desenho de perfil](Data-Recohlida-Logo.jpg)
+![desenho de perfil](LYNX-LOST.png)
 ![desenho de perfil](Barra-de-Progresso.png)
 
 ### Obstáculos	
@@ -33,8 +34,8 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ### Situações de Jogo
 ![desenho de jogo](Protótipo-Grid-013.jpg)
 ![desenho de jogo](Protótipo-Oceano.jpg)
-![desenho de jogo](Protótipo-Selva.jpg)
-![desenho de jogo](Protótipo-Vulcão.jpg)
+![desenho de jogo](Protótipo-Alta-Definição-3-Revisto.png)
+![desenho de jogo](Protótipo-Alta-Definição-4-Revisto.png)
 
 ### *Moodboard*
 ![desenho de moodboard](Moodboard-3.png)
@@ -47,8 +48,8 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ![roupa](mochila-azul-LYNX.png)
 
 ### Link do Jogo 	
-[LYNX](https://www.example.com) (Soon + 2 Weeks)
+[LYNX](https://www.example.com) (*Missing*, não consegui meter aqui o link do cõdigo, e mesmo que conseguisse, não consegui meter o jogo a funcionar)
 
 ### Trailer
-![roupa](mochila-azul-LYNX.png)
+![roupa](LYNX-Trailer.mp4)
 
