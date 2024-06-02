@@ -42,7 +42,7 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ### *Merchandise*
 ![roupa](t-shirt-verde-LYNX.png)
 ![roupa](bone-vermelho-LYNX.png)
-![roupa](Chapeu-amarelho-LYNX.png)
+![roupa](Chapeu-amarelo-LYNX.png)
 ![roupa](estojo-escolar-LYNX.png)
 ![roupa](mochila-azul-LYNX.png)
 
