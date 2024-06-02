@@ -36,6 +36,7 @@ O objetivo do jogo é atravessar estes ambientes com uma destas unidades “LYNX
 ![desenho de jogo](Protótipo-Oceano.jpg)
 ![desenho de jogo](Protótipo-Alta-Definição-3-Revisto.png)
 ![desenho de jogo](Protótipo-Alta-Definição-4-Revisto.png)
+![desenho de jogo](Protótipo-Alta-Definição-Game-Over-Revisto.png)
 
 ### *Moodboard*
 ![desenho de moodboard](Moodboard-3.png)
